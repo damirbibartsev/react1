@@ -1,0 +1,7 @@
+.content{
+    background-color: aliceblue;
+    /* grid-area: c; */
+}
+.content img{
+    width: 1000px;
+}

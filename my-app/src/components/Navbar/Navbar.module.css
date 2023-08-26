@@ -1,0 +1,13 @@
+.nav {
+    background-color: aqua;
+    /* grid-area: n; */
+    width: 200px;
+    padding: 30px;
+}
+
+.item a {
+    color: rgb(19, 116, 40);
+    text-decoration: none;
+    padding: 20px;
+    font-size: 19px;
+}
