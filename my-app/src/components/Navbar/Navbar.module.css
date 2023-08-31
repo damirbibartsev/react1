@@ -8,6 +8,7 @@
 .item a {
     color: rgb(19, 116, 40);
     text-decoration: none;
-    padding: 20px;
+    margin: 30px;
+    padding: 5px;
     font-size: 19px;
 }
